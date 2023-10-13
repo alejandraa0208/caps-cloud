@@ -1,0 +1,18 @@
+{
+  "name": "caps-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1473.0",
+    "chance": "^1.1.11",
+    "install": "^0.13.0",
+    "npm": "^10.2.0",
+    "socket.io-client": "^4.7.2"
+  }
+}
